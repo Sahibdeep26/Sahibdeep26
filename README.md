@@ -2,7 +2,7 @@
 <h3 align="center">A passionate <code>{computer programmer}</code>  </h3>
 
 <h4>
-I'm Sahib from India, and I desing and develop websites and build android applications and softwares. I have also worked on building machine learning, deep learning and reinforcement learning programs. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I have used devops like Git and Docker, and delployed some of my project on platforms like Firebase, Heroku and Netlify.
+I'm Sahib from India, and I desin and develop websites and build android applications and softwares. I have also worked on building machine learning, deep learning and reinforcement learning programs. I really enjoy learning languages and frameworks like React and React Native, as well as work in Wordpress. I have used devops like Git and Docker, and delployed some of my project on platforms like Firebase, Heroku and Netlify.
 </h4>
 
 
