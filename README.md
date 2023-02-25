@@ -8,7 +8,7 @@ I'm Sahib from India, and I design and develop websites and build android applic
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and work on some really amazing projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and work on some really amazing projects
 - ⚡ Fun fact: I love to play foosball and pool :8ball:
 - 👨‍💻 All of my projects are available at [https://github.com/Sahibdeep26](https://github.com/Sahibdeep26)
 
